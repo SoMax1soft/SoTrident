@@ -1,0 +1,9 @@
+name: SoTrident
+main: so.max1soft.sotrident.Main
+author: SoMax1soft
+description: "t.me/max1soft"
+api-version: 1.16
+version: 1
+commands:
+  sotrident:
+    description: 123
